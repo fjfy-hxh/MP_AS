@@ -136,8 +136,7 @@ ann.ids <- c("Inf Mac",  #0Injured Proximal tubular cell  not a cluster, it is m
 )
 ann.ids <- c("Transitional_State",  #0Injured Proximal tubular cell  not a cluster, it is my numbering, cluster+1
              "Progenitor_State",  #1Injured Proximal tubular cell
-             "Inflammatory_State",
-             'remove'#2
+             "Inflammatory_State"
 )
 ann.ids <- c("vSMCs",  #0Injured Proximal tubular cell  not a cluster, it is my numbering, cluster+1
              "vSMCs",  #1Injured Proximal tubular cell
@@ -152,8 +151,7 @@ ann.ids <- c("vSMCs",  #0Injured Proximal tubular cell  not a cluster, it is my 
              "vSMCs",#10
              "FBs C6",#11
              "FBs C7",#12
-             "FBs C8",#13
-             "remove"#14
+             "FBs C8"#13
              
 )
 Idents(afd)
