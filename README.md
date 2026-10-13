@@ -1,1 +1,1 @@
-This repository contains R code for integrating single-cell RNA-seq (scRNA), single-cell ATAC-seq (scATAC), and spatial transcriptomics (ST) to dissect cellular and epigenetic mechanisms underlying microplastic (MP) aggravated atherosclerosis in ApoE knockout mice.
+This repository contains R and Python code for integrating single-cell RNA-seq (scRNA), single-cell ATAC-seq (scATAC), and spatial transcriptomics (ST) to dissect cellular and epigenetic mechanisms underlying microplastic (MP) aggravated atherosclerosis in ApoE knockout mice.
